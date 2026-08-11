@@ -1,7 +1,7 @@
 # Household Budget Optimization Initiative
 **Jan 2026 – Mar 2026 (12 weeks)**
 
-![Budget dashboard](./images/budget_dashboard.png)
+## Budget Planning
 
 ## Objective
 Bring formal project structure to household spending: a defined scope, a tracked budget, and a measurable outcome, instead of managing money reactively.
