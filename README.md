@@ -3,6 +3,9 @@
 
 ## Budget Planning
 
+<img width="1013" height="725" alt="image" src="https://github.com/user-attachments/assets/3612e749-5b29-4439-b175-4490a0fc00c6" />
+
+
 ## Objective
 Bring formal project structure to household spending: a defined scope, a tracked budget, and a measurable outcome, instead of managing money reactively.
 
